@@ -1,0 +1,10 @@
+{
+	"fields": {
+		"summary":"<type> <key> # Build <build>",
+		"customfield_11828":["<testPlanKey>"],
+		"customfield_14602":"<url_ihm>",
+		"customfield_14603":"<url_api>",
+		"customfield_14401":"<job>",
+		"description":"Build et report: <buil_url>"
+	}
+}
